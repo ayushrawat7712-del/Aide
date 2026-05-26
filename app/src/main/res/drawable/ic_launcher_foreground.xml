@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Left bracket < styled to fit safe-zone -->
+    <path
+        android:pathData="M 38,34 L 24,54 L 38,74"
+        android:strokeColor="#00ADB5"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Right bracket > styled to fit safe-zone -->
+    <path
+        android:pathData="M 70,34 L 84,54 L 70,74"
+        android:strokeColor="#00ADB5"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+
+    <!-- Speed Hot Reload compilation Lightning Bolt in center -->
+    <path
+        android:pathData="M 58,26 L 44,51 L 52,51 L 50,76 L 66,49 L 56,49 Z"
+        android:fillColor="#F1C40F"/>
+        
+</vector>
